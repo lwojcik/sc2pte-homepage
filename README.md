@@ -1,1 +1,6 @@
-sc2pte.lukem.net
+Website under construction.
+
+Important links:
+
+* [Terms of service](tos/)
+* [Privacy policy](privacy/)
