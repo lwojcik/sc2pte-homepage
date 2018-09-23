@@ -3,6 +3,7 @@ This is the homepage of [StarCraft II Twitch Extension](https://www.twitch.tv/ex
 ## Important links
 
 * [Configuration manual](./howto/)
+* [F.A.Q. - Frequently Asked Questions](./faq/)
 * [Terms of service](./tos/)
 * [Privacy policy](./privacy/)
 * [API uptime status](https://sc2pte-status.lukem.net/)
