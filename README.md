@@ -10,5 +10,13 @@ This is the homepage of [StarCraft II Twitch Extension](https://www.twitch.tv/ex
 ## Contact
 
 * Email: [lukemsc@lukem.net](mailto:lukemsc@lukem.net)
+* Twitch: [lukem_sc](http://twitch.tv/lukem_sc)
 * Twitter: [@Lukem_sc](http://twitter.com/lukem_sc)
 * Discord: [Support channel](http://discord.gg/MTcWc4p)
+
+## Other
+
+Source code of the extension is available on GitHub:
+
+* [https://github.com/lukemsc/sc2profile-twitch-extension-frontend](https://github.com/lukemsc/sc2profile-twitch-extension-frontend)
+* [https://github.com/lukemsc/sc2profile-twitch-extension-api](https://github.com/lukemsc/sc2profile-twitch-extension-api)
