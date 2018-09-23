@@ -1,8 +1,8 @@
 This is the homepage of [StarCraft II Twitch Extension](https://www.twitch.tv/ext/wg56zk271bqja047pknv3pk65m0rbr-0.0.2).
 
-## Important links:
+## Important links
 
-* [Manual](./howto/)
+* [Configuration manual](./howto/)
 * [Terms of service](./tos/)
 * [Privacy policy](./privacy/)
 * [API uptime status](https://sc2pte-status.lukem.net/)
@@ -20,3 +20,5 @@ Source code of the extension is available on GitHub:
 
 * [https://github.com/lukemsc/sc2profile-twitch-extension-frontend](https://github.com/lukemsc/sc2profile-twitch-extension-frontend)
 * [https://github.com/lukemsc/sc2profile-twitch-extension-api](https://github.com/lukemsc/sc2profile-twitch-extension-api)
+
+&copy; 2018 [Łukasz Wójcik](https://lukaszwojcik.net)
