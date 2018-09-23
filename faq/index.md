@@ -4,7 +4,7 @@ title: F.A.Q. - Frequently Asked Questions
 
 # F.A.Q. - Frequently Asked Questions
 
-Answers to common issues.
+If you have a question that wasn't answered here, [please let me know](https://sc2pte.lukem.net/#contact).
 
 ## I just finished a game and the extension didn't update immediately
 
