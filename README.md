@@ -1,4 +1,4 @@
-This is the homepage of [StarCraft II Twitch Extension](https://www.twitch.tv/ext/wg56zk271bqja047pknv3pk65m0rbr-0.0.2).
+This is a homepage of [StarCraft II Profile Twitch Extension](https://www.twitch.tv/ext/wg56zk271bqja047pknv3pk65m0rbr-0.0.2).
 
 ## Important links
 
