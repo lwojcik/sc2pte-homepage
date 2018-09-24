@@ -26,7 +26,7 @@ This is entirely Blizzard's fault.
 
 In many cases data received from Battle.net API is out of sync with actual game state, especially in case of recently introduced portraits. If Battle.net API lies, the extension will repeat those lies. :-(
 
-This is a [known issue](https://github.com/lukemsc/sc2profile-twitch-extension-api/issues/2) and I'm yet to propose a systemic workaround for that. If you have a suggestion how to fix this, [let me know](https://sc2pte.lukem.net/#contact).
+This is a [known issue](https://github.com/lukemsc/sc2profile-twitch-extension-api/issues/2) ([Battle.net forum thread](https://us.battle.net/forums/en/sc2/topic/20759307656)) and I'm yet to propose a systemic workaround for that. If you have a suggestion how to fix this, [let me know](https://sc2pte.lukem.net/#contact).
 
 ## I just tied a game and I can't see it in the extension
 
