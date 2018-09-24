@@ -7,7 +7,7 @@ This is a homepage of [StarCraft II Profile Twitch Extension](https://www.twitch
 * [Terms of service](./tos/)
 * [Privacy policy](./privacy/)
 * [API uptime status](https://sc2pte-status.lukem.net/)
-* [Twitch status[(https://twitchstatus.com/)
+* [Twitch status](https://twitchstatus.com/)
 
 ## Contact
 
