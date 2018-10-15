@@ -1,5 +1,7 @@
 This is a homepage of [StarCraft II Profile Twitch Extension](https://www.twitch.tv/ext/wg56zk271bqja047pknv3pk65m0rbr).
 
+**[Click here to install](https://www.twitch.tv/ext/wg56zk271bqja047pknv3pk65m0rbr)**
+
 It's a panel that you can add to the information section under your stream. It displays season statistics from your StarCraft II profile. It requires minimum configuration and it updates automatically every couple of minutes.
 
 ![Screenshot](https://sc2pte.lukem.net/images/screenshot.jpg)
