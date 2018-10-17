@@ -13,7 +13,7 @@ It's a panel that you can add to the information section under your stream. It d
 * [Terms of service](./tos/)
 * [Privacy policy](./privacy/)
 * [Changelog](./changelog/)
-* [Kanban board](https://github.com/orgs/lukemsc/projects/1)
+* [Kanban board](https://github.com/orgs/lukemnet/projects/1)
 * [API uptime status](https://sc2pte-status.lukem.net/)
 * [Twitch status](https://twitchstatus.com/)
 
