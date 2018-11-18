@@ -8,7 +8,7 @@ Only versions released on Twitch are mentioned here.
 
 ## v1.1.0 (?? Nov 2018)
 
-* **Migrated to [https://develop.battle.net/documentation/api-reference/starcraft-2-community-api](new StarCraft II Community APIs)**
+* Migrated from [old Mashery API](https://dev.battle.net/) to [https://develop.battle.net/documentation/api-reference/starcraft-2-community-api](new StarCraft II Community APIs)
 * Simplified configuration form: only profile URL is required
 * No support for legacy profile URLs (e.g. [http://eu.battle.net/sc2/en/profile/5593296/1/Lukem/](http://eu.battle.net/sc2/en/profile/5593296/1/Lukem/)) any more
 * **Introduced known issue:** Stats for archon players aren't displayed. Instead, they're added up to 2v2 stats, thus rendering this datapoint inaccurate. The bug has to do with Blizzard labelling archon ladders as '2v2' and [I submitted this to Blizzard](https://us.battle.net/forums/en/bnet/topic/20769759674#post-10). I'll decide what to do depending on their answer
