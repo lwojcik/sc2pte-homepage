@@ -9,11 +9,11 @@ Only versions released on Twitch are mentioned here.
 ## v1.1.0 (?? Nov 2018)
 
 * **Migrated from [old Mashery API](https://dev.battle.net/) to [new StarCraft II Community APIs](https://develop.battle.net/documentation/api-reference/starcraft-2-community-api)**
-* Simplified configuration form: only profile URL is required
+* Simplified configuration form: only a profile URL is required (e.g. [https://starcraft2.com/en-us/profile/2/1/5593296](https://starcraft2.com/en-us/profile/2/1/5593296))
 * No support for legacy profile URLs (e.g. [http://eu.battle.net/sc2/en/profile/5593296/1/Lukem/](http://eu.battle.net/sc2/en/profile/5593296/1/Lukem/)) any more
-* **Draws aren't displayed in the extension.** StarCraft II APIs don't expose this information any more. [I submitted this to Blizzard](https://us.battle.net/forums/en/bnet/topic/20769759674#post-12) and I'll reintroduce the feature if they bring relevant data back.
+* **Draws aren't displayed in the extension.** StarCraft II APIs don't expose this information any more. [I submitted this to Blizzard](https://us.battle.net/forums/en/bnet/topic/20769759674#post-12) and I'll reintroduce the feature if they bring relevant data back
 * **Introduced known issue: Stats for archon players aren't displayed.** Instead, they're added up to 2v2 stats, thus rendering this datapoint inaccurate. The bug has to do with APIs labelling archon ladders as '2v2' and [I submitted this to Blizzard](https://us.battle.net/forums/en/bnet/topic/20769759674#post-10). I'll decide what to do depending on their answer
-* Portrait frames are now determined accurately based on highest 1v1 or team rank
+* Portrait frames are now determined correctly based on current solo or team rank, whichever is better
 * Portraits should now be displayed correctly
 
 ## v1.0.4 (19 Oct 2018)
