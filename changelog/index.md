@@ -4,7 +4,12 @@ title: Changelog
 
 # Changelog
 
-Only versions released on Twitch are mentioned here.
+Only versions released on Twitch are mentioned here. Changes which don't trigger Twitch review process may be omitted.
+
+For more details on current state of the project see the [Kanban board](https://github.com/orgs/lukemnet/projects/1) or source code repos:
+
+* [Frontend](https://github.com/lukemnet/sc2profile-twitch-extension-frontend)
+* [Backend](https://github.com/lukemnet/sc2profile-twitch-extension-api)
 
 ## v1.1.0 (?? Nov 2018)
 
