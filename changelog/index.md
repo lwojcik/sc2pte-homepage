@@ -8,7 +8,7 @@ Only versions released on Twitch are mentioned here. Changes which don't trigger
 
 For more details on current state of the project see the [Kanban board](https://github.com/orgs/lukemnet/projects/1) or source repositories: [Frontend](https://github.com/lukemnet/sc2profile-twitch-extension-frontend), [Backend](https://github.com/lukemnet/sc2profile-twitch-extension-api).
 
-## v1.1.0 (?? Nov 2018)
+## v1.1.0 (27 Nov 2018)
 
 * **Migrated from [old Mashery API](https://dev.battle.net/) to [new StarCraft II Community APIs](https://develop.battle.net/documentation/api-reference/starcraft-2-community-api)**
 * Simplified configuration form: only a profile URL is required (e.g. [https://starcraft2.com/en-us/profile/2/1/5593296](https://starcraft2.com/en-us/profile/2/1/5593296))
