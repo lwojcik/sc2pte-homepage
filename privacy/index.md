@@ -4,7 +4,7 @@ title: Privacy policy
 
 # Privacy Policy
 
-**Last update: 2018-09-23**
+**Last update: 2018-12-01**
 
 We are Lukem.net. We build interactive applications for web and mobile devices.
 
@@ -18,9 +18,8 @@ To operate properly, we have to identify you as a Twitch channel owner and locat
 
 1. Information you provide us when you submit the configuration:
    1. Your StarCraft II player profile credentials:
-      1. game server identifier (‘us’, ‘eu’ or ‘kr’),
+      1. region identifier as single digit number (1 for Americas, 2 for Europe, 3 for Korea, 5 for China),
       1. realm identifier (single digit)
-      1. your in-game username
 1. Information we receive from third parties:
    1. Your Twitch user ID (sometimes called channel ID)
    1. Your Twitch channel role:
@@ -35,7 +34,7 @@ If you contact us via email or other communication channel, we keep the record o
 
 We use your StarCraft II profile credentials to:
 
-1. Confirm their validity on Blizzard API services,
+1. Confirm their validity against Blizzard API,
 1. Obtain your StarCraft II season statistics.
 
 ### Storing configuration data
@@ -56,7 +55,6 @@ We use your Twitch ID and your channel role to:
    1. Your in-game portrait,
    1. Cumulative statistics for each ranked mode (1v1, archon, 2v2, 3v3, 4v4):
       1. Number of wins,
-      1. Number of draws,
       1. Number of losses,
       1. Top MMR,
 
