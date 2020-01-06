@@ -31,4 +31,4 @@ Source code of the extension is available on GitHub:
 * [https://github.com/lukemsc/sc2profile-twitch-extension-frontend](https://github.com/lukemsc/sc2profile-twitch-extension-frontend)
 * [https://github.com/lukemsc/sc2profile-twitch-extension-api](https://github.com/lukemsc/sc2profile-twitch-extension-api)
 
-&copy; 2018 [Łukasz Wójcik](https://lukaszwojcik.net)
+&copy; 2018-2020 [Łukasz Wójcik](https://www.lukaszwojcik.net)
