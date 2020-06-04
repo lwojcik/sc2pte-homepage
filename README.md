@@ -26,7 +26,7 @@ It's a panel that you can add to the information section under your stream. It d
 
 Source code of the extension is available on GitHub:
 
-* [https://github.com/lukemnet/sc2pte-frontend](https://github.com/lukemnet/sc2pte-frontend)
-* [https://github.com/lukemnet/sc2pte-backend](https://github.com/lukemnet//sc2pte-backend)
+* [https://github.com/lukemnet/sc2pte-frontend](https://github.com/lukemnet/sc2pte-frontend) - frontend
+* [https://github.com/lukemnet/sc2pte-backend](https://github.com/lukemnet/sc2pte-backend) - backend service
 
 &copy; 2018-2020 [Łukasz Wójcik](https://www.lukaszwojcik.net)
