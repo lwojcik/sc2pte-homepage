@@ -13,7 +13,6 @@ It's a panel that you can add to the information section under your stream. It d
 * [Terms of service](./tos/)
 * [Privacy policy](./privacy/)
 * [Changelog](./changelog/)
-* [Kanban board](https://github.com/orgs/lukemnet/projects/1)
 * [API uptime status](https://sc2pte-status.lukem.net/)
 * [Twitch status](https://twitchstatus.com/)
 
@@ -22,13 +21,12 @@ It's a panel that you can add to the information section under your stream. It d
 * Email: [lukemsc@lukem.net](mailto:lukemsc@lukem.net)
 * Twitch: [Lukemsc](http://twitch.tv/lukemsc)
 * Twitter: [@Lukemsc](http://twitter.com/lukemsc)
-* Discord: [Support channel](http://discord.gg/MTcWc4p)
 
 ## Other
 
 Source code of the extension is available on GitHub:
 
-* [https://github.com/lukemsc/sc2profile-twitch-extension-frontend](https://github.com/lukemsc/sc2profile-twitch-extension-frontend)
-* [https://github.com/lukemsc/sc2profile-twitch-extension-api](https://github.com/lukemsc/sc2profile-twitch-extension-api)
+* [https://github.com/lukemnet/sc2pte-frontend](https://github.com/lukemnet/sc2pte-frontend)
+* [https://github.com/lukemnet/sc2pte-backend](https://github.com/lukemnet//sc2pte-backend)
 
 &copy; 2018-2020 [Łukasz Wójcik](https://www.lukaszwojcik.net)
