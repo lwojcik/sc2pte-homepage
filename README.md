@@ -13,7 +13,7 @@ It's a panel that you can add to the information section under your stream. It d
 * [Terms of service](./tos/)
 * [Privacy policy](./privacy/)
 * [Changelog](./changelog/)
-* [API uptime status](https://sc2pte-status.lukem.net/)
+* [API uptime status](https://status.sc2pte.eu/)
 * [Twitch status](https://twitchstatus.com/)
 
 ## Contact
