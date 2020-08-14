@@ -1,6 +1,6 @@
 [![Screenshot](https://sc2pte.lukem.net/images/sc2pte-img.jpg)](https://www.twitch.tv/ext/wg56zk271bqja047pknv3pk65m0rbr)
 
-**[Click here to install the extension on Twitch](https://www.twitch.tv/ext/wg56zk271bqja047pknv3pk65m0rbr)**
+**[Click here to install the extension on Twitch](https://dashboard.twitch.tv/extensions/wg56zk271bqja047pknv3pk65m0rbr)**
 
 This is a homepage of [StarCraft II Profile Twitch Extension](https://dashboard.twitch.tv/extensions/wg56zk271bqja047pknv3pk65m0rbr).
 
