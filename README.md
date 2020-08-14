@@ -19,8 +19,8 @@ It's a panel that you can add to the information section under your stream. It d
 ## Contact
 
 * Email: [lukemsc@lukem.net](mailto:lukemsc@lukem.net)
-* Twitch: [Lukemsc](http://twitch.tv/lukemsc)
-* Twitter: [@Lukemsc](http://twitter.com/lukemsc)
+* Twitch: [Lukem_sc](http://twitch.tv/lukem_sc)
+* Twitter: [@Lukem_sc](http://twitter.com/lukem_sc)
 
 ## Other
 
