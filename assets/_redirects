@@ -1,0 +1,8 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
+# https://sc2pte.lukem.net/* https://www.sc2pte.eu/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://sc2pte.netlify.com/* https://www.sc2pte.eu/:splat 301!
+https://sc2pte.netlify.app/* https://www.sc2pte.eu/:splat 301!
