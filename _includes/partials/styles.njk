@@ -1,3 +1,5 @@
-<link rel="stylesheet" href="/css/min.css">
-{% set css %}{% include "style.css" %}{% endset %}
+{% set css %}
+{% include "styles/min.css" %}
+{% include "styles/style.css" %}
+{% endset %}
 <style>{{ css | cssmin | safe }}</style>
