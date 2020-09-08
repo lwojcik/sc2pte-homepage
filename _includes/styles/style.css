@@ -229,13 +229,19 @@ h1 {
 
 .subpage .container {
   padding: 0 30px;
-  background: rgba(120,120,120,0.2);
+  background: rgba(120,120,120,0.1);
   overflow: hidden;
 }
 
 @media screen and (min-width: 769px) {
-  .subpage .container {
+  .nav .container,
+  content .container,
+  .footer .container {
     max-width: 1024px !important;
+  }
+
+  .subpage .container {
+    max-width: 964px !important;
   }
 }
 
