@@ -224,6 +224,16 @@ h1 {
   margin-bottom: 30px;
 }
 
+.subpage a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.subpage a:hover,
+.subpage a:focus {
+  text-decoration: none;
+}
+
 .subpage h1 {
   margin-top: 20px;
 }
@@ -231,7 +241,6 @@ h1 {
 .subpage .container {
   padding: 0 20px;
   margin: 0 auto;
-  background: rgba(0,0,0,0.5);
   overflow: hidden;
 }
 
@@ -240,12 +249,12 @@ h1 {
   content .container,
   .footer .container {
     max-width: 984px !important;
-    padding: 0 20px;
     margin:0 auto;
+    padding: 0 20px;
   }
 
   .subpage .container {
-    max-width: 944px !important;
+    max-width: 984px !important;
     margin:0 auto;
   }
 }
