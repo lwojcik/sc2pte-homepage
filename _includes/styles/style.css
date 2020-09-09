@@ -240,6 +240,11 @@ h1 {
   overflow: hidden;
 }
 
+.subpage .narrower.col {
+  margin: 0 auto;
+  float: none;
+}
+
 @media screen and (min-width: 769px) {
   .nav .container,
   content .container,
