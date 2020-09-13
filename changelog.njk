@@ -1,0 +1,52 @@
+---
+layout: page
+name: changelog
+title: Changelog - StarCraft II Profile - Twitch Extension
+description: Display your StarCraft II season stats on your Twitch channel page
+locale: en
+---
+
+<div class="subpage">
+  <div class="container">
+    <div class="col c10 narrower">
+      <h1>Changelog</h1>
+      <p>Only versions released on Twitch are mentioned here. Changes which don't trigger Twitch review process may be omitted.</p>
+
+      <p>For more details on current project state see <a href="https://github.com/orgs/sc2pte/projects/1">the Kanban board</a> or source repositories: <a href="https://github.com/sc2pte/panel-frontend">Frontend</a>, <a href="https://github.com/sc2pte/panel-backend">Backend</a>.</p>
+
+      <h2 id="v2">v2.0 (?? Sep 2020)</h2>
+      <ul>
+        <li>The extension has been rewritten from scratch using TypeScript, create-react-app, craco and up-to-date versions of dependencies. All source code changes can be tracked in relevant repositories featured on <a href="https://github.com/sc2pte">GitHub organization page</a></li>
+        <li>New configuration section allows for adding up to 3 StarCraft II profile URLs as well as changing their order via drag-and-drop</li>
+        <li>When more than one StarCraft II profile is presented, the extension displays a profile selection screen</li>
+        <li>New layout of ladder statistics view, moved to a dedicated tab called 'Snapshot'</li>
+        <li>New tab: 'Stats' - presenting key career milestones such as highest ranks or season win-ratio</li>
+        <li>New tab: 'History' - presenting latest match results</li>
+      </ul>
+
+      <h2 id="v1-1-0-27-nov-2018-">v1.1.0 (27 Nov 2018)</h2>
+      <ul>
+        <li><strong>Migrated from <a href="https://dev.battle.net/">old Mashery API</a> to <a href="https://develop.battle.net/documentation/api-reference/starcraft-2-community-api">new StarCraft II Community APIs</a></strong></li>
+        <li>Simplified configuration form: only a profile URL is required (e.g. <a href="https://starcraft2.com/en-us/profile/2/1/5593296">https://starcraft2.com/en-us/profile/2/1/5593296</a>)</li>
+        <li>No support for legacy profile URLs (e.g. <a href="http://eu.battle.net/sc2/en/profile/5593296/1/Lukem/">http://eu.battle.net/sc2/en/profile/5593296/1/Lukem/</a>) any more</li>
+        <li><strong>Draws aren&#39;t displayed in the extension.</strong> StarCraft II APIs don&#39;t expose this information any more. <a href="https://us.battle.net/forums/en/bnet/topic/20769759674#post-12">I submitted this to Blizzard</a> and I&#39;ll reintroduce the feature if they bring relevant data back</li>
+        <li><strong>Introduced known issue: Stats for archon players aren&#39;t displayed.</strong> Instead, they&#39;re added up to 2v2 stats, thus rendering this datapoint inaccurate. The bug has to do with APIs labelling archon ladders as &#39;2v2&#39; and <a href="https://us.battle.net/forums/en/bnet/topic/20769759674#post-10">I submitted this to Blizzard</a>. I&#39;ll decide what to do depending on their answer</li>
+        <li>Portrait frames are now determined correctly based on current solo or team rank, whichever is better</li>
+        <li>Portraits should now be displayed correctly</li>
+      </ul>
+      <h2 id="v1-0-4-19-oct-2018-">v1.0.4 (19 Oct 2018)</h2>
+      <ul>
+      <li>Modified configuration form: support for new StarCraft II profile URLs (e.g. <a href="https://starcraft2.com/en-us/profile/2/1/5593296/">https://starcraft2.com/en-us/profile/2/1/5593296/</a>) while retaining support for legacy URLs (e.g. <a href="http://eu.battle.net/sc2/en/profile/5593296/1/Lukem/">http://eu.battle.net/sc2/en/profile/5593296/1/Lukem/</a>)</li>
+      </ul>
+      <h2 id="v1-0-3-11-oct-2018-">v1.0.3 (11 Oct 2018)</h2>
+      <ul>
+      <li>First public release</li>
+      <li>Optimizing Webpack build process while keeping generated code non-obfuscated as per Twitch guidelines</li>
+      </ul>
+      <h2 id="v0-0-2-8-oct-2018-">v0.0.2 (8 Oct 2018)</h2>
+      <ul>
+      <li>Initial version, available only for a testing group</li>
+      </ul>
+    </div>
+  </div>
+</div>
