@@ -2,6 +2,8 @@
 
 # Redirect domain aliases to primary domain
 https://sc2pte.lukem.net/* https://www.sc2pte.eu/:splat 301!
+https://sc2pte-api-na.lukem.net/* https://www.sc2pte.eu/ 301!
+
 https://sc2pte.eu/* https://www.sc2pte.eu/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
