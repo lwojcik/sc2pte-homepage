@@ -29,6 +29,6 @@
     "@11ty/eleventy": "1.0.0",
     "clean-css": "5.2.4",
     "html-minifier": "4.0.0",
-    "terser": "5.11.0"
+    "terser": "5.12.0"
   }
 }
